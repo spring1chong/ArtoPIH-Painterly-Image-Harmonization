@@ -9,8 +9,8 @@ import os
 from util import util
 import numpy as np
 import torch
-from skimage.metrics import mean_squared_error
-from skimage.metrics import peak_signal_noise_ratio
+# from skimage.metrics import mean_squared_error
+# from skimage.metrics import peak_signal_noise_ratio
 from tqdm import tqdm
 
 from util.visualizer import Visualizer
